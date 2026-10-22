@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cuantos Tacos">
+  <rect width="64" height="64" fill="#F2B705"/>
+  <rect x="3" y="3" width="58" height="58" fill="none" stroke="#141210" stroke-width="4"/>
+  <circle cx="32" cy="34" r="20" fill="#FBF3E2" stroke="#141210" stroke-width="3.5"/>
+  <path d="M25 22 L32 10 L39 22 Z" fill="#FBF3E2" stroke="#141210" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M24 21 H40" stroke="#2F6B3A" stroke-width="3"/>
+  <path d="M20 49 C20 40 44 40 44 49 Z" fill="#C8261B" stroke="#141210" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="32" cy="30" r="6" fill="#E5772B" stroke="#141210" stroke-width="3"/>
+  <path d="M29 31 Q32 29 35 31" fill="none" stroke="#141210" stroke-width="2" stroke-linecap="round"/>
+</svg>
